@@ -2070,12 +2070,12 @@ function os2web_base_field_default_field_instances() {
     'display' => array(
       'default' => array(
         'label' => 'hidden',
-        'module' => 'text',
+        'module' => 'os2web_iframe_field',
         'settings' => array(
           'height' => 1200,
           'width' => 700,
         ),
-        'type' => 'text_default',
+        'type' => 'os2web_iframe_field_iframe',
         'weight' => 2,
       ),
       'related_block' => array(

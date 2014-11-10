@@ -30,6 +30,7 @@ dependencies[] = node_reference
 dependencies[] = number
 dependencies[] = options
 dependencies[] = os2web_esdh_field
+dependencies[] = os2web_iframe_field
 dependencies[] = os2web_taxonomies
 dependencies[] = page_manager
 dependencies[] = panels
